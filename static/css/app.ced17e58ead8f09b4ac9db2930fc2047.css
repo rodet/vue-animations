@@ -1,0 +1,25 @@
+
+html {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: #21252b;
+  color: #e6e6e6;
+}
+
+.circles[data-v-26a95010] {
+  color: white;
+}
+.h1[data-v-26a95010] {
+  font-size: 48px;
+  margin: 20px auto;
+}
+.canvas[data-v-26a95010] {
+  width: 600px;
+  height: 600px;
+  background-color: #282c34;
+  margin: 50px auto;
+}
+
+/*# sourceMappingURL=app.ced17e58ead8f09b4ac9db2930fc2047.css.map*/
