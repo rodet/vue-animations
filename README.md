@@ -1,6 +1,6 @@
-# vue-circles
+# vue-animations
 
-> Animation of circles for visualization
+> Animation of diverse type for visualization, fun and experimentation
 
 ## Build Setup
 
