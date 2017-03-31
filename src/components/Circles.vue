@@ -42,8 +42,10 @@ export default {
       // Redraw text
       const canvas = document.querySelectorAll('.canvas')[0];
       /* Refit the canvas size to its real size */
-      const width = canvas.width = canvas.clientWidth;
-      const height = canvas.height = canvas.clientHeight;
+      canvas.width = canvas.clientWidth;
+      const width = canvas.width;
+      canvas.height = canvas.clientHeight;
+      const height = canvas.height;
 
       const ctx = canvas.getContext('2d');
       // Ensure to start on a clean basis
